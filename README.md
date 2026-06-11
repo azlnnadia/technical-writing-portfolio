@@ -1,15 +1,18 @@
-# technical-writing-portfolio
-# How to Wear Your Backpack
+# About Me
+Hi, I'm a content professional experienced in managing technical outdoor gear brands.
 
-## How to Put on Your Backpack
+# Work Experience
 
-- Rest the backpack on your knee.
-- Put your arm through one shoulder strap and swing the pack onto your back.
-- Slide your other arm through the remaining shoulder strap.
+# Universal Fitness & Leisure Sdn. Bhd. (Sept 25 - Current)
+Digital Marketing (Social Media) Executive
 
-## How to Adjust Your Backpack
+- Planned and executed social media strategies for Facebook, Instagram, and TikTok.
+- Managed content calendars, posting schedules, and platform optimization.
+- Engaged with audiences through comments, messages, and community management.
 
-- Fasten and tighten the hip belt.
-- Secure and adjust the sternum strap.
+# Web Impian Sdn. Bhd. (Mar 24 - Feb 25)
+Social Media & KOL Coordinator Intern
 
-For more tips, visit our [Deuter official website](https://www.deuter.com).
+- Created and executed content strategies for Facebook, Instagram, and TikTok.
+- Designed engaging copy, visuals, and videos to drive engagement.
+- Analyzed insights to optimize content performance.
